@@ -1,0 +1,55 @@
+# Virtual environments
+myenv/
+venv/
+env/
+.venv/
+.env
+.env.example
+
+# Environment variables (secrets)
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Project artifacts
+data/raw/
+data/processed/
+models/
+logs/
+mlruns/
+*.zip
+*.pkl
+*.pt
+*.h5
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+.github/
+.streamlit/ 
+
