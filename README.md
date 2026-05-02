@@ -94,6 +94,3 @@ This is an **educational project**. Do **NOT** use it for live trading with real
 
 ---
 
-## 📜 License
-
-MIT
