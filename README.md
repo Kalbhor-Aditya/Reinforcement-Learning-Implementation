@@ -59,17 +59,6 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📚 Documentation
-
-All in [.github/](./.github/):
-- [ARCHITECTURE.md](./.github/ARCHITECTURE.md) — System design overview
-- [ALGORITHMS.md](./.github/ALGORITHMS.md) — Each RL algorithm explained simply
-- [SETUP.md](./.github/SETUP.md) — Detailed installation guide
-- [LEARNING_GUIDE.md](./.github/LEARNING_GUIDE.md) — Use this project to learn RL
-- [CONTRIBUTING.md](./.github/CONTRIBUTING.md) — Contribution guidelines
-
----
-
 ## 🗂️ Project Layout
 
 ```
